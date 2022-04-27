@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/yash-278/Frontend-Mentor-Challenges/tree/main/Base-Apparel-Coming-Soon)
-- Live Site URL: [Live Demo](https://yash-278.github.io/Frontend-Mentor-Challenges/Base-Apparel-Coming-Soon/index.html)
+- Solution URL: [Github Repo](https://github.com/roy-eugene049/Base-Apparel-Coming-Soon)
+- Live Site URL: [Live Demo](https://base-apparel-coming-soon-sigma-tawny.vercel.app/)
 
 ## My process
 
@@ -41,10 +41,9 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Flexbox
-- [TailwindCss](https://tailwindcss.com/) - For styles
+- [TailwindCss](https://tailwindcss.com/)
 
 ## Author
 
-- Website - [Yash Kadam](https://www.yashkadam.cf)
-- Frontend Mentor - [@yash-278](https://www.frontendmentor.io/profile/yash-278)
-- Github - [@yash-278](https://github.com/yash-278)
+- Frontend Mentor - [@roy-eugene049](https://www.frontendmentor.io/profile/roy-eugene049)
+- Github - [roy-eugene049](https://github.com/roy-eugene049)
